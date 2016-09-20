@@ -6,3 +6,5 @@ blueberry
 peach
 strawberry 
 watermelon
+Unicoin
+
