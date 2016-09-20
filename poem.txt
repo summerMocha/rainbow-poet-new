@@ -2,4 +2,7 @@ apple
 banana
 grape
 cheery 
+blueberry
+peach
+strawberry 
 watermelon
